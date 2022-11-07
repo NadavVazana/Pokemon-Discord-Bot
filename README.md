@@ -35,6 +35,12 @@ if you would like to see the code you can always clone the project and test it:
 git clone https://github.com/NadavVazana/Pokemon-Discord-Bot
 ```
 
+and then install the modules:
+
+```
+npm i 
+```
+
 To start the bot write on the chat of the server: !pokemon (and then the pokemon name you would like to see the details about!)
 
 <img src="https://res.cloudinary.com/ds8xkm0ue/image/upload/v1667858974/Untitled_xmejtm.png" />
